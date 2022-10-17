@@ -1,16 +1,18 @@
-# flutter_graphs
+# Flutter Graphs App
 
-A new Flutter project.
+Open Source app which implements all possible graphs in flutter with help of packages.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## Contributing Guidelines
+Please follow the [contributing guidelines](CONTRIBUTION.md) to contribute to the project.
 
-A few resources to get you started if this is your first Flutter project:
+## Documents related to the project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Contributors👩‍💻👨‍💻 :
+<a href="https://github.com/PranavMasekar/Flutter-Graphs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PranavMasekar/Flutter-Graphs" />
+</a>
+
