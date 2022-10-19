@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_graphs/views/area_chart.dart';
 import 'package:flutter_graphs/views/bar_chart.dart';
 import 'package:flutter_graphs/views/column_chart.dart';
 import 'views/line_chart.dart';
@@ -20,7 +21,8 @@ class MyApp extends StatelessWidget {
       ),
       // home: const LineChart(),
       // home: BarChart(),
-      home: ColumnChart(),
+      // home: ColumnChart(),
+      home: AreaChart(),
     );
   }
 }
