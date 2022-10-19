@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_graphs/views/bar_chart.dart';
 import 'views/line_chart.dart';
 
 void main() {
@@ -16,7 +17,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const LineChart(),
+      // home: const LineChart(),
+      home: BarChart(),
     );
   }
 }
